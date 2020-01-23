@@ -1,6 +1,6 @@
 # 行動規範
 
-以下等を参考に、言葉を組みなおして自分自身の行動規範としました。
+以下を参考に、言葉を組みなおして自分自身の行動規範としました。
 
 * Rust / Code of conduct
   * https://www.rust-lang.org/policies/code-of-conduct
